@@ -41,6 +41,22 @@ html::-webkit-scrollbar-thumb{
 section{
 padding: 5rem;
 }
+.btn{
+
+      display: inline-block;
+      background: var(--black);
+   margin-top: 1rem;
+   color: var(--white);
+   font-size: 1.7rem;
+   padding: 1rem 3rem;
+   cursor: pointer;
+   margin-top : 1rem;
+
+}
+.btn:hover{
+   background: var(--main-color);
+}
+
 .heading-tilte{
    text-align: center;
    margin-top: 3rem;
@@ -83,7 +99,36 @@ padding: 5rem;
    color: var(--black);
    display: none;
 }
-
+.home{
+   padding:0;
+}
+.home .slide{
+   text-align:center;
+   padding : 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-size: cover !important;
+   background-position: cover !important;
+   min-height: 60rem;
+}
+.home .slide .content{
+   width: 85rem;
+}
+.home .slide .content span{
+   display: block;
+   font-size:2,2rem;
+   color: var(--light-white);
+   padding-bottom:  1rem;
+}
+.home .slide .content h3{
+   font-size: 6vw;
+   color: var(--white);
+   text-transform: uppercase;
+   line-height: 1;
+   text-shadow: var(--text-shadow);
+   padding: 1rem 0;
+}
 /* media queries */
 @media (max-width:1200px){
     
@@ -146,6 +191,9 @@ padding: 5rem;
   { 
    html{
          font-size: 50%;
+      }
+      .heading-tilte{
+         font-size: 3.5rem;
       }
 }
 
@@ -225,4 +273,5 @@ cursor: pointer;
    color: var(--main-color);
 
 }
+
 
