@@ -234,12 +234,164 @@
 </section>
  <!-- about section ends  -->
 
+ <!-- reviews section begans -->
+
+ <section class="reviews">
+    <div class="swiper reviews-slider">
+      <div class="swiper-wrapper">
+          <!-- premiere review -->
+         <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>ahmed malki</h3>
+            <span>traveler</span>
+            <img src="images/pic-1.png" alt="">
+         </div>
+          
+         <!-- deuxieme review -->
+         <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>sofia alami </h3>
+            <span>traveler</span>
+            <img src="images/pic-2.png" alt="">
+         </div>
+
+          <!-- troisieme review -->
+          <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>sofia alami </h3>
+            <span>traveler</span>
+            <img src="images/pic-3.png" alt="">
+         </div>
+         <!-- quatrieme review -->
+         <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>sofia alami </h3>
+            <span>traveler</span>
+            <img src="images/pic-4.png" alt="">
+         </div>
+
+      <!--   cinquieme review  -->
+      <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>sofia alami </h3>
+            <span>traveler</span>
+            <img src="images/pic-5.png" alt="">
+         </div>
+
+         <!-- sixieme review  -->
+          <div class="swiper-slider slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum dolor sit amet consectetur
+                adipisicing elit. Voluptatibus possimus
+                 excepturi explicabo beatae temporibus
+                  ducimus veniam odio id! In modi asperiores
+                   possimus placeat perferendis veniam
+                    cupiditate voluptates quisquam corporis
+                     cumque.
+            </p>
+            <h3>sofia alami </h3>
+            <span>traveler</span>
+            <img src="images/pic-6.png" alt="">
+         </div>
+
+         
+
+      </div>
+    </div>
+ </section>
+ <!-- reviews section ends -->
+
+
+
+
 <!-- footer section starts -->
 
 <section class="footer">
     
    <div class="box-container">
-
+      
       <div class="box">
          <h3>quick links</h3>
          <a href="home.php"><i class="fas fa-angle-right"></i> home</a>
