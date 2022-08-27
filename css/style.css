@@ -331,6 +331,10 @@ cursor: pointer;
    line-height: 2;
    padding: 1rem 0;
 }
+.home-packages .load-more {
+   text-align: center;
+   margin-top: 2rem;
+}
 /* style home packages  endss */
 
 
@@ -390,7 +394,7 @@ display: inline-block;
   color: var(--black);
 }
 .packages .box-container .box .content p{
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: var(--light-black);
   line-height: 2;
   padding: 1rem 0;
@@ -402,10 +406,45 @@ display: inline-block;
 
 /* style package ends */
 
-.home-packages .load-more {
-   text-align: center;
+.booking .book-form{
+   padding:2rem;
+   background: var(--light-bg);
+}
+.booking .book-form .flex{
+   display: flex;
+   flex-wrap:wrap;
+   gap:2rem;
+}
+.booking .book-form .flex .inputBox{
+   flex:1 1 41rem;
+}
+.booking .book-form .flex .inputBox input{
+   width:100%;
+   padding: 1.2rem 1.4rem;
+   font-size:1.6rem;
+   color: var(--light-black);
+   text-transform: none;
+   margin-top:1.5rem;
+   border:var(--border);
+   margin-top: 1.5rem;
+}
+.booking .book-form .flex .inputBox input:focus{
+   background:var(--black);
+   color: var(--white);
+}
+.booking .book-form .flex .inputBox input:focus::placeholder{
+   background: var(--black);
+   color: var(--light-white);
+}
+.booking .book-form .flex .inputBox span{
+   font-size:2rem;
+   color: var(--light-black);
+}
+.booking .book-form .btn{
    margin-top: 2rem;
 }
+
+
 .home-offer{
    text-align: center;
 }
