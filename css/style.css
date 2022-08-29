@@ -440,7 +440,7 @@ display: inline-block;
    font-size:2rem;
    color: var(--light-black);
 }
-.booking .book-form .btn{
+.booking .book-form .btn{  
    margin-top: 2rem;
 }
 
